@@ -252,3 +252,10 @@ main p {
   z-index: 1100;
   background-color: #efdccc00;
 }
+
+footer {
+  background-color: #d1b7a1;
+  padding: 20px 0;
+  text-align: center;
+  color: #333;
+}
